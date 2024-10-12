@@ -1,5 +1,6 @@
 # The MIT licensed Javascript LZ4 Compression from an old version of Xpra
 
+UPDATE: https://github.com/williamstein/lz4-ts works VERY well, and is beautiful clean code.  I'm switching to that and obviously won't worry about this any further.
 
 This code is copied straight from the upstream Xpra client code, but
 with prettier formatting applied.
